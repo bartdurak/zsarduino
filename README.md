@@ -25,9 +25,60 @@ Add more general information about project. What the purpose of the project is? 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## Przyłd kodu
+Przykład kodu wykonującego:
+    int Trig = 2;   // Numer pinu wyzwolenia
+    int Echo = 3;   // Numer pinu odpowiedzi
+    int Red = 4;    // Numer pinu - dioda czerwona
+    long EchoTime;  // Czas trwania sygnału ECHO
+    int  Distance;  // Odległość w centymetrach
+    int  MaximumRange = 200; // Maksymalna odległość
+    int  MinimumRange = 2;   // Minimalna odległość
+         void setup()
+    {
+      // Inicjalizacja portu szeregowego
+      Serial.begin(9600);
+           // Konfiguracja pinów
+      pinMode(Trig, OUTPUT);
+      pinMode(Echo, INPUT);
+      pinMode(Red, OUTPUT);
+    }
+    void loop()
+    {
+      // Ustawiamy TRIG w stan niski na 2us
+      digitalWrite(Trig, LOW);
+      delayMicroseconds(2);
+           // Ustawiamy TRIG w stan wysoki na 10us
+      digitalWrite(Trig, HIGH);
+      delayMicroseconds(10);
+           // Ustawiamy TRIG w stan niski - rozpoczynamy pomiar
+      digitalWrite(Trig, LOW);
+           // Odczytujamy czas trwania stanu wysokiego na pinie ECHO
+      EchoTime = pulseIn(Echo, HIGH);
+           // Obliczamy odległość
+      Distance = EchoTime / 58;
+           // Sprawdzamy zakres pomiarowy
+      if (Distance >= MaximumRange || Distance <= MinimumRange)
+      {
+        Serial.println("Poza zakresem");  
+      } else  
+      {
+        if (Distance < 50
+       )
+        {
+          digitalWrite(Red, LOW);  
+          delay(5000);    
+        } else
+        {
+          digitalWrite(Red, HIGH);      
+        }    
+                Serial.print("Odleglosc: ");
+        Serial.println(Distance);
+      }
+           // Opóźnienie kolejnego pomiaru
+      delay(100);
+    }
+
 
 ## Features
 List of features ready and TODOs for future development
@@ -42,8 +93,8 @@ To-do list:
 ## Status
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
+## Inspiracje
+Projekty arduino
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [budownictwa@zoho.com](http://mechatronikaedu.blogspot.com/) - nie wahaj się ze mną skontaktować!
