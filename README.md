@@ -1,15 +1,15 @@
-# Project Name
-> Here goes your awesome project description!
+# Dzień Nowych Technologii
+> Projekt kieszonkowego sensora zbliżenia!
 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Informacje ogólne](#sensor zbiżenia na arduino)
+* [Screenshots](#zrzuty ekranu projektu)
+* [Technologie](#arduino, sensor ulstadziękowy)
+* [Konfiguracja](#Arduino Leonardo, sensro zbliżenia, taśma komputerowa)
+* [Plan wykonania](#do 22 Kwietenia)
+* [Status](#lutowanie płytki uniwersalnej)
+* [Inspiracja](# Dzień Nowych Technologii)
+* [Kontact](#b.durak@zst.kolbuszowa.pl)
 
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
