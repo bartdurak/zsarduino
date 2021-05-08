@@ -2,20 +2,20 @@
 > Projekt kieszonkowego sensora zbliżenia!
 
 ## Table of contents
-* [Informacje ogólne](#sensor zbiżenia na arduino)
-* [Screenshots](#zrzuty ekranu projektu)
+* [Informacje ogólne](#sensor zbiżenia na Arduino)
+* [Screenshots](#postępy pracy) 
 * [Technologie](#arduino, sensor ulstadziękowy)
-* [Konfiguracja](#Arduino Leonardo, sensro zbliżenia, taśma komputerowa)
-* [Plan wykonania](#do 22 Kwietenia)
+* [Konfiguracja](#Arduino Leonardo, sensro zbliżenia, taśma komputerowa, lutownica)
+* [Plan wykonania](#projekt w thicercad, wykonanie projektu na płytce prototypowej, wykonaie układu na płytce uniwersalnej)
 * [Status](#lutowanie płytki uniwersalnej)
-* [Inspiracja](# Dzień Nowych Technologii)
-* [Kontact](#b.durak@zst.kolbuszowa.pl)
+* [Inspiracja](# Projekty arduino, inteligętne domy)
+* [Kontact](#batq.ar@zoho.com) 
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Nauka mechatroniki
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Thincrecad](./img/screenshot.png)
 
 ## Technologies
 * Tech 1 - version 1.0
