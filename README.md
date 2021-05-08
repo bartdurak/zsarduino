@@ -1,18 +1,18 @@
 # Dzień Nowych Technologii
 > Projekt kieszonkowego sensora zbliżenia!
 
-## Table of contents
-* [Informacje ogólne](#sensor zbiżenia na Arduino)
+## Ogolna koncepcja
+* [O projekcie](#sensor zbiżenia na Arduino)
 * [Screenshots](#postępy pracy) 
-* [Technologie](#arduino, sensor ulstadziękowy)
-* [Konfiguracja](#Arduino Leonardo, sensro zbliżenia, taśma komputerowa, lutownica)
-* [Plan wykonania](#projekt w thicercad, wykonanie projektu na płytce prototypowej, wykonaie układu na płytce uniwersalnej)
-* [Status](#lutowanie płytki uniwersalnej)
+* [Technologie zstosowane](#Arduino AMR, sensor ulstadziękowy echo, )
+* [Konfiguracja](#Arduino Leonardo, sensro zbliżenia echo. tring, taśma komputerowa, zestaw lutoniczy)
+* [Plan wykonania](#plan układu i symulacja w Tinkercad, wykonanie projektu na płytce prototypowej, wlutowanie układu na płytce uniwersalnej lutowniczej)
+* [Status](#lutowanie didy i czujnika do płyti uniwersalnej)
 * [Inspiracja](# Projekty arduino, inteligętne domy)
-* [Kontact](#batq.ar@zoho.com) 
+* [Kontact](#budownictwa@zoho.com )
 
 ## General info
-Nauka mechatroniki
+Nauka mechatroniki, Arduino, Linux Debian 11
 
 ## Screenshots
 ![Thincrecad](./img/screenshot.png)
