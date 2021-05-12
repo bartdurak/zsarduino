@@ -20,7 +20,7 @@
 Nauka mechatroniki, Arduino, Linux Debian 11
 
 ## Screenshots
-![Thincrecad](../2021-04-22_20h08_51.png)
+![Thincrecad](../IMG_20210429_113159.jpg)
 
 ## Technologies
 * dokumentacja_sensora_dystansu- version 1.0
@@ -36,10 +36,9 @@ int Trig = 2; // Numer pinu wyzwolenia int Echo = 3; // Numer pinu odpowiedzi in
 ## Udoskonalenie w przyszłości
 Przbudowa do Arduino mini, wykonaie wersji kieszonkowego sensora zliżeniowego
 
-
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Zastosowanie Arduino mini 1
+* Zmiejszenie beterii zasilającej na 3,3 [V]  2
 
 ## Status
 Project is: _przetestowany projekt symulacji, _zakończono testy na prototypie_, _z powodu braku wtyczek, projekt się wydłużył.
@@ -48,7 +47,7 @@ Project is: _przetestowany projekt symulacji, _zakończono testy na prototypie_,
 Inteligętne domy Arduino
 
 ## Contact
-Created by [budownictwa@zoho.com](http://mechatronikaedu.blogspot.com/) - nie wahaj się ze mną skontaktować!
+pisz maila [budownictwa@zoho.com](http://mechatronikaedu.blogspot.com/) - nie wahaj się ze mną skontaktować!
 
 # Miejsce na kolejny temat 1
 ## Header 2
