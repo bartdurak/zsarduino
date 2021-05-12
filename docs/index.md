@@ -1,3 +1,4 @@
+![2021-04-22_20h08_51](https://user-images.githubusercontent.com/63419495/118041928-b6896280-b373-11eb-928c-f93aae195bda.png)
 # Arduino_ZST
  👋 Cześć, im @bart
  👀 Interesuje mnie automatyka arduino
