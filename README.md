@@ -19,7 +19,7 @@
 ## General info
 Nauka mechatroniki, Arduino, Linux Debian 11
 
-## Screenshots
+## Zrzut
 ![Thincrecad](./2021-04-22_20h08_51.png)
 
 ## Technologies
