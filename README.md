@@ -4,16 +4,16 @@
  👋 Cześć, jestem @batqar
  👀 Interesuje mnie mechatronika
  🌱 Obecnie się uczę języka python
- 💞️ Chcę współpracować przy projektach Arduino
+ 💞️ Chcę współpracować przy projektach Arduino sterowniki domowe
  📫 Jak do mnie dotrzeć: na https://www.facebook.com/zstkolbuszowa
 ## Ogolna koncepcja
 * [O projekcie](#sensor zbiżenia na Arduino)
 * [Screenshots](#postępy pracy) 
-* [Technologie zstosowane](#Arduino AMR, sensor ulstadziękowy echo, )
+* [Technologie zastosowane](#Arduino AMR, sensor ulstadziękowy echo, )
 * [Konfiguracja](#Arduino Leonardo, sensro zbliżenia echo. tring, taśma komputerowa, zestaw lutoniczy)
 * [Plan wykonania](#plan układu i symulacja w Tinkercad, wykonanie projektu na płytce prototypowej, wlutowanie układu na płytce uniwersalnej lutowniczej)
 * [Status](#lutowanie didy i czujnika do płyti uniwersalnej)
-* [Inspiracja](# Projekty arduino, inteligętne domy)
+* [Inspiracja](# Inteligętne domy )
 * [Kontact](#budownictwa@zoho.com )
 
 ## General info
@@ -25,7 +25,6 @@ Nauka mechatroniki, Arduino, Linux Debian 11
 ## Technologies
 * dokumentacja_sensora_dystansu- version 1.0
 * czujnik_dystansu_spolecznego- version 2.0
-* 
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
