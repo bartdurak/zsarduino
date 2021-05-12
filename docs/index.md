@@ -1,5 +1,5 @@
 # Arduino_ZST
- 👋 Cześć, im @batqar
+ 👋 Cześć, im @bart
  👀 Interesuje mnie automatyka arduino
  🌱 Obecnie uczę się pythona
  💞️ Chcę współpracować przy projektach Arduino sterowniki domowe
