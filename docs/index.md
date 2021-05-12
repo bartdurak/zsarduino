@@ -17,7 +17,7 @@
 * [Kontact](#budownictwa@zoho.com )
 
 ## General info
-Nauka mechatroniki, Arduino, Linux Debian 11
+Mechatronika, Arduino, Linux Debian 11
 
 ## Screenshots
 ![Thincrecad](../IMG_20210429_113159.jpg)
