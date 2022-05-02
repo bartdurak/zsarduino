@@ -1,9 +1,9 @@
 # Dzień Nowych Technologii
 > Projekt kieszonkowego sensora zbliżenia!
 # Arduino_ZST
- 👋 Cześć, jestem @batqar
- 👀 Interesuje mnie mechatronika
- 🌱 Obecnie się uczę języka python
+ 👋 Hay,  @batqar
+ 👀 Zajmuje się programowaniem Arduino.
+ 🌱 Obecnie poszerzam wiedzę z języków: java, python.
  💞️ Chcę współpracować przy projektach Arduino sterowniki domowe
  📫 Jak do mnie dotrzeć: na https://www.facebook.com/zstkolbuszowa
 ## Ogolna koncepcja
